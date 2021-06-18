@@ -1,0 +1,28 @@
+.image {
+    position: relative;
+    top: 5vh;
+    left: 1vw;
+    z-index: -1;
+    opacity: 2;
+}
+.container{
+    position: relative;
+}
+.text-block{
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    display: block;
+    font-size: 35px;
+}
+.text-block h1{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    text-shadow: 0.5;
+    font-size: 25px;
+}
